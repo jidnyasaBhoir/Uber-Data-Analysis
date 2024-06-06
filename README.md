@@ -18,3 +18,6 @@
  Data set is provided in data.csv file and can also be found on website given below.
   Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
   Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
+  ![data pipeline](https://github.com/jidnyasaBhoir/Uber-Data-Analysis/assets/69042351/b917c34f-ea81-4534-b6f6-14a6c5274813)
+
